@@ -4,20 +4,23 @@
     "title": "Flowey",
     "content": "only 5 inches",
     "price": 120000,
-	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sports_shoes.jpg/1200px-Sports_shoes.jpg"
+	"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sports_shoes.jpg/1200px-Sports_shoes.jpg",
+	"qty": 0
   },
   {
     "id": 4,
     "title": "Baby shoes",
     "content": "for less than 6",
     "price": 120000,
-	"image": "https://i.pinimg.com/736x/a1/d9/7f/a1d97f96d264af788175ca9020e70a7e.jpg"
+	"image": "https://i.pinimg.com/736x/a1/d9/7f/a1d97f96d264af788175ca9020e70a7e.jpg",
+	"qty": 0
   },
   {
     "id": 5,
     "title": "Red Herring",
     "content": "Born in France",
     "price": 120000,
-	"image"
+	"image": "https://thumbs.dreamstime.com/b/blue-shoes-29507491.jpg",
+	"qty": 0
   }
 ]
