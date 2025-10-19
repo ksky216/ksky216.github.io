@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/280.83dd2550.chunk.css","mappings":"AAAA,aACE,SAAU,CACX,oBAEC,SAAU,CACV,sBAAyB","sources":["Detail.scss"],"sourcesContent":[".trans-enter {\r\n  opacity: 0;\r\n}\r\n.trans-enter-active {\r\n  opacity: 1;\r\n  transition: opacity 200ms;\r\n}"],"names":[],"sourceRoot":""}
